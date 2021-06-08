@@ -1,0 +1,3 @@
+C:/Users/admin/Desktop/FitCloak/algos/cmake-build-debug/CMakeFiles/algos.dir
+C:/Users/admin/Desktop/FitCloak/algos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/admin/Desktop/FitCloak/algos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

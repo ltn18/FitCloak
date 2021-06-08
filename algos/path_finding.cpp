@@ -1,3 +1,4 @@
+// dynamic programming method
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -88,8 +89,8 @@ void answer() {
 }
 
 int main() {
-	freopen("input.txt", "r", stdin);
-	// freopen("output.txt", "w", stdout);
+	freopen("inputJava.txt", "r", stdin);
+	// freopen("outputJava.txt", "w", stdout);
 	input();
 	solve();
 	answer();
