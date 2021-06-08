@@ -1,6 +1,8 @@
 // author: Lam Nguyen
 // solving travelling salesman problem using backtrack and branch & bound
 // drawback: take a lot of time to run many locations <do time analysis>
+// improvements: this is when we only have 1 warehouses, if we scale up, we can add more warehouses
+// and add them to the list -> treat them as Minimum Spanning Tree
 import java.util.*;
 import java.io.*;
 

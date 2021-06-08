@@ -20,18 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9ef7413-1f94-4bcd-b132-20d37c2a824e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TravellingSalesman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/small_in.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/small_out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algos/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algos/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algos/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algos/TravellingSalesman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algos/TravellingSalesman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algos/inputJava.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algos/inputJava.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Locations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Point.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/inputJava.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/inputJava.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TravellingSalesman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TravellingSalesman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623138098618</updated>
-      <workItem from="1623138099670" duration="10631000" />
+      <workItem from="1623138099670" duration="11272000" />
     </task>
     <servers />
   </component>
@@ -141,22 +130,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1623138155409" />
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1623153060865">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom" timestamp="1623153438732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1623153060865" />
-    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1623153060864">
+    <state width="1237" height="200" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1623153438732" />
+    <state width="1237" height="200" key="GridCell.Tab.0.center" timestamp="1623153438731">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1623153060864" />
-    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1623153060864">
+    <state width="1237" height="200" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1623153438731" />
+    <state width="1237" height="200" key="GridCell.Tab.0.left" timestamp="1623153438731">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1623153060864" />
-    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1623153060864">
+    <state width="1237" height="200" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1623153438731" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right" timestamp="1623153438732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1623153060864" />
+    <state width="1237" height="200" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1623153438732" />
     <state x="91" y="0" key="new project wizard" timestamp="1623138178415">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
